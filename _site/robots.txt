@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/suesuekkim/sitemap.xml
+Sitemap: https://suesuekkim.github.io/sitemap.xml
